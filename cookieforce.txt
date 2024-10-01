@@ -1,0 +1,23 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+.semrush.com	False	/	False	1759090770	_ga_BPNLXP3JQG	GS1.1.1727554763.1.1.1727554770.0.0.1484713719
+.semrush.com	False	/	False	1759090770	_ga_HYWKMHR981	GS1.1.1727554763.1.1.1727554770.53.0.0
+.semrush.com	False	/	False	1761250770	_uetvid	f3941b007dd611efba98cd2dade1d79a|vrv00z|1727554770399|2|1|bat.bing.com/p/insights/c/t
+.semrush.com	False	/	False	1759090769	_ga	GA1.2.1782271948.1727554765
+www.semrush.com	False	/	False	1727556564	lux_uid	172755476438702846
+.semrush.com	False	/	False	1759090764	cookiehub	eyJhbnN3ZXJlZCI6ZmFsc2UsInJldmlzaW9uIjoxLCJkbnQiOmZhbHNlLCJhbGxvd1NhbGUiOnRydWUsImltcGxpY3QiOnRydWUsInJlZ2lvbiI6IkcwIiwidG9rZW4iOiJtcmlkcmlsSWo3R2lETkV1bHdnRnh6Q0lWNG5VaHNTOWJDZXlURkVycmpuZ0k3a3ZoenI4a0s5TGpNMXVRTVU0IiwidGltZXN0YW1wIjoiMjAyNC0wOS0yOFQyMDoxOToyMy41MjFaIiwiYWxsQWxsb3dlZCI6dHJ1ZSwiY2F0ZWdvcmllcyI6W10sInZlbmRvcnMiOltdLCJzZXJ2aWNlcyI6W119
+.semrush.com	False	/	False	1727641169	_gid	GA1.2.474917955.1727554765
+.semrush.com	False	/	False	1759090763	_mkto_trk	id:519-IIY-869&token:_mch-semrush.com-1727554763722-20398
+.semrush.com	True	/	False	0	site_csrftoken	THjca6SaVlbjhXrNlcTsYIXKvl2Gdl56
+.semrush.com	False	/	False	1759090762	ref_code	__default__
+.semrush.com	True	/	True	1727641158	PHPSESSID	0c6db34b49e84ac3a4a20582119f3fd3
+.semrush.com	True	/	True	1732738762	_sm_bot	f0ebe7dca382660a2cdf4b953b5fb1d3cabe2503137a4d88648d79fb5fdde3f2
+.www.semrush.com	False	/	False	1762114763	G_ENABLED_IDPS	google
+.semrush.com	False	/	False	1735330769	_fbp	fb.1.1727554763561.626983851274244918
+.semrush.com	False	/	False	1727641163	_uetsid	f393fe007dd611ef87842f0a96564820|15xyc4v|2|fpk|0|1732
+.semrush.com	False	/	False	1759090762	refer_source	""
+.semrush.com	True	/	True	1727641158	SSO-JWT	eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwYzZkYjM0YjQ5ZTg0YWMzYTRhMjA1ODIxMTlmM2ZkMyIsImlhdCI6MTcyNzU1NDc1MiwiaXNzIjoic3NvIn0.QGDtXyRtD1tHFTWJIWV7XPlrQcu8LVQkgZabHa9bEFwPdS-a4iPLPLk70NVbUDN3lBcXYMwUAmvkZkAdayzh0Q
+.semrush.com	False	/	False	1735330765	_gcl_au	1.1.1609436671.1727554765
+.semrush.com	False	/	False	1727554825	_dc_gtm_UA-6197637-22	1
+www.semrush.com	True	/	False	1727641158	GCLB	CISE_tempNyTrgEQAw
+.semrush.com	True	/	True	1732738762	_sm_bot_verify	4057048491820354649:be6d54b742d5b30867d525b6a538e048b58170f519070a95707907953bdc1672d5064a9ac201c92cf15bc2427206ee7637ad7d63ee4a6b7b1c43110bc05b3db57b9f6fe1f8db5873610032a1cd8d955c273f868bfa88a6a26531539dc642db89618b56ca31ef9cb13b08516658bfe35f

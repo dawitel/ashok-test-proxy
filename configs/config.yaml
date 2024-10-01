@@ -1,0 +1,6 @@
+server:
+  port: "8080"
+proxy:
+  target_url: "https://youtube.com"
+  user_agent_file: "ua.txt"
+  cookie_file: "cookieforce.txt"
